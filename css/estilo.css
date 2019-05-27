@@ -1,0 +1,108 @@
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 50px;
+}
+.navbar .navbar-brand {
+	color: white;
+
+}
+
+.imagen img{
+	width: 1300px;
+	height: 500px;
+}
+.texto{
+	margin:5px 20px;
+}
+.texto h5{
+	font-weight: bold;
+	font-size: 30px;
+	color: #82A3BD;
+}
+.texto p{
+	color: #82A3BD;
+}
+.card-img {
+	height: 200px;
+	width: 100px;
+}
+.contenedor{
+	background-color: #080F15;
+}
+.texto h5{
+	margin:10px 20px;
+}
+.texto p{
+	margin:10px 20px;
+}
+.btn-outline-light{
+	margin: 0px 20px;
+	color: #597084;
+}
+.fila1 .uno{
+	margin:10px;
+	margin-left: 40px;
+}
+.fila2 .uno{
+	margin:10px;
+	margin-left: 40px;
+}
+.fila3 .uno{
+	margin:10px;
+	margin-left: 40px;
+}
+.fila1 .dos{
+	margin:10px;
+	margin-left: 20px;
+}
+.fila2 .dos{
+	margin:10px;
+	margin-left: 25px;
+}
+.fila3 .dos{
+	margin:10px;
+	margin-left: 17px;
+}
+.contenedor2{
+	margin:30px 30px;
+}
+.contenedor2 h5{
+	color: #597084;
+	font-size: 30px;
+}
+.contenedor2 p{
+	color: #597084;
+
+}
+.card{
+	border:transparent;
+}
+.contenedor3{
+	background-color: #F18980;
+	height: 500px;
+}
+.texto1 h5{
+	margin: 20px 30px;
+	color: white;
+	font-size: 30px;
+}
+.texto1 p{
+	margin: 0px 30px;
+	color: white;
+}
+.form-control{ background-color: #F16F64;
+ }
+ .form-group{
+ 	width: 65%;
+ 	margin: 0px 30px;
+ 	border:transparent;
+ }
+.final img{
+	width: 100%;
+}
+}
+
+
+
